@@ -12,7 +12,7 @@ ls /home will display lecture1
 ls will display lecture1  #if with no arugment, it will show file name under current working directory.
 ls /home/lecture1 will display message
 
-#cat command
+# cat command
 cat command use to veiw or read the file.
 Based on the test, if cat command with no argument, then the system start bug, need to restart terminal
 if cat with argument, but it a directory, it will display it is directory.
