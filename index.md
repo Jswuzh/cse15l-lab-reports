@@ -1,8 +1,8 @@
 ![image](cd.png)
 # cd command
-cd command is to change working directory, when using cd command without arguments, it will go to root directory.(No error) /0
-If using cd command with a path to diretory, it will go to that working directroy(no error)/0
-If using cd command with a path to files, it will say it's not a directory(error occur)/0
+*cd command is to change working directory, when using cd command without arguments, it will go to root directory.(No error) 
+*If using cd command with a path to diretory, it will go to that working directroy(no error)
+*If using cd command with a path to files, it will say it's not a directory(error occur)
 ![image](ls.png)
 # ls command
 ls command is to show the list of files
